@@ -76,6 +76,7 @@ function matchPasswords(input1, input2) {
 // });
 
 
+// Valodaion CHECKS
 
 function checkRequired(inputArr) {
     inputArr.forEach(input => {
